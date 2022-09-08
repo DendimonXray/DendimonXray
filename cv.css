@@ -2,6 +2,7 @@ body{
     text-align: center;
     font-size: 200%;
     background-image:url(1000923.jpg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
     color : white;
@@ -31,4 +32,11 @@ p.pengalaman{
     padding-bottom: 5%;
     color: white;
     font-size: 100%;
+}
+div img{
+    float: right;
+    margin: 5px;
+    
+    width: 20%;
+    border-radius: 300px;
 }
